@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snjssk&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 [![snjssk's github stats](https://github-readme-stats.vercel.app/api?username=snjssk&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snjssk&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
